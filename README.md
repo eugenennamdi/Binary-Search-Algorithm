@@ -21,7 +21,6 @@ defFindElement(elements,elementToFind):
     else:
       high=mid-1
   return-1
-![image](https://user-images.githubusercontent.com/85407620/126586669-0550e8df-d664-4360-ae15-ee0ec99b1f28.png)
 
 #adding the following code to the program, outside the _FindElement_ function
 
