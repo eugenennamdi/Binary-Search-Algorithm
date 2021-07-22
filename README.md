@@ -5,6 +5,8 @@ A Binary Search Algorithm basically searches for an element in a list or array
 '''Setting pointers that reflect the highest and lowest value in the list'''
 
 #lets define a function for the binary search
+
+
 defFindElement(elements,elementToFind):
   low=0
   high=len(elements)-1
