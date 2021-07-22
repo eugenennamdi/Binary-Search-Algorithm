@@ -8,6 +8,7 @@ A Binary Search Algorithm basically searches for an element in a list or array
 
 
 defFindElement(elements,elementToFind):
+
   low=0
   high=len(elements)-1
 
