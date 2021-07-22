@@ -12,6 +12,7 @@ defFindElement(elements,elementToFind):
   high=len(elements)-1
 
   while low<=high:
+  
     mid=low+(high+low)//2
 
     if elements[mid]== elementToFind:
